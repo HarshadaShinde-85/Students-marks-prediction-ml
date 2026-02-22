@@ -25,7 +25,7 @@ The dataset contains:
 6. Model Evaluation
 
 ## 🔗 Project Notebook
-[Click here to view the notebook]([PASTE_YOUR_NOTEBOOK_LINK_HERE](https://github.com/HarshadaShinde-85/Students-marks-prediction-ml/blob/main/student_mark_predictor.ipynb))
+[Click here to view the notebook](https://github.com/HarshadaShinde-85/Students-marks-prediction-ml/blob/main/student_mark_predictor.ipynb)
 
 ## Author
 Harshada Shinde  
